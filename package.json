@@ -1,0 +1,16 @@
+{
+  "name": "ywca-workspace",
+  "version": "0.0.1",
+  "description": "YWCA Workspace for Brendan Arifin",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:themoose53/ywebca.git"
+  },
+  "author": {
+    "name": "Brendan Arifin",
+    "email": "arifinbrendan@gmail.com",
+    "url": "https://github.com/themoose53"
+  },
+  "license": "MIT",
+  "dependencies": {}
+}
